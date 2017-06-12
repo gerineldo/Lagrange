@@ -1,8 +1,8 @@
 title:  Gerineldo
-tagline:  a blog about programming myself
+tagline:  | a blog of programming myself
 author:
   name: "G"
-  twitter:  paululele
+  
 
 menu:
 - {name: 'About', url: 'about.html'}
