@@ -355,6 +355,10 @@ pre {
   	transition: .5s;
 }
 
+.fa-free-code-camp:hover {
+	color: #375989;
+}
+
 .fa-instagram {
   padding: 5px;
 	-o-transition:.5s;
